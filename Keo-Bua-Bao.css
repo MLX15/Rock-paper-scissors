@@ -1,0 +1,145 @@
+
+body{
+    font-family:'Fredoka One', cursive;
+    background: url("https://www.levistrauss.com/wp-content/uploads/2020/05/Black_Box.png");
+    background-size:cover;
+}
+
+h1{
+    color: rgb(107, 250, 231);
+    font-weight: bold;
+}
+
+.item1{
+    display:flex;
+    flex-direction:column;
+    font-size:26px;
+    margin:20px;
+    text-align:center;
+}
+
+.item2{
+    display:flex;
+    flex-direction:column;
+    font-size:26px;
+    margin:20px;
+    text-align:center;
+}
+
+.item3{
+    display:flex;
+    flex-direction:column;
+    font-size:26px;
+    margin:20px;
+    text-align:center;
+}
+
+.item4{
+    display:flex;
+    flex-direction:column;
+    font-size:26px;
+    margin:20px;
+    text-align:center;
+}
+
+.item5{
+    display:flex;
+    flex-direction:column;
+    font-size:26px;
+    margin:20px;
+    text-align:center;
+}
+
+.item6{
+    display:flex;
+    flex-direction:column;
+    font-size:26px;
+    margin:20px;
+    text-align:center;
+}
+
+#axe-pic{
+    height:100px;
+    width:100px;
+    border-radius:20px;
+}
+#axe-pic:hover{
+    border: 5px solid red;
+    height:100px;
+    width:100px;
+    border-radius:20px;
+}
+
+#scissors-pic{
+    height:100px;
+    width:100px;
+    border-radius: 20px
+}
+
+#scissors-pic:hover{
+    border: 5px solid red;
+    height:100px;
+    width:100px;
+    border-radius: 20px
+}
+
+#paper-pic{
+    height:100px;
+    width:100px;
+    border-radius:20px;
+}
+
+#paper-pic:hover{
+    border: 5px solid red;
+    height:100px;
+    width:100px;
+    border-radius:20px;
+}
+
+#you{
+    font-size:30px;
+    color:rgb(8, 69, 236);
+}
+
+#cpt-choice{
+    font-size:30px;
+    color:rgb(8, 69, 236);
+}
+
+
+#sure{
+        font-size:30px;
+        color:rgb(253, 0, 0);
+}
+
+#sure:hover{
+    color:rgb(255, 94, 0);
+}
+
+#ready {
+    text-decoration: none;
+}
+
+#contain {
+    display:flex;
+    justify-content: center;
+}
+
+#all{
+    display:flex;
+    justify-content: center;
+    color:rgb(107, 250, 231);
+}
+#cpt{
+    float:right;
+    margin:10px
+}
+#people{
+    margin:10px;
+}
+
+#result{
+    margin:15px;
+    font-size:30px;
+    color:rgb(13, 243, 33);
+}
